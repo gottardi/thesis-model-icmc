@@ -1586,6 +1586,13 @@
     \inserelistadesiglas
     \inserelistadesimbolos
 
+%================================================================================
+% Sumario
+%================================================================================
+%	Indentação
+	\setlength{\cftsectionindent}{1.0em}
+	\setlength{\cftsubsectionindent}{1.5em}
+%	Fim identação
 	\pdfbookmark[0]{\contentsname}{toc}
     \tableofcontents*
     \cleardoublepage
