@@ -216,7 +216,7 @@
 
 
 %================================================================================
-% Comando auxiliares
+% Comandos auxiliares
 %================================================================================
 
 % Comando para marcar texto para revisao
@@ -332,7 +332,7 @@
 
 
 %================================================================================
-% Definicao/Alteracao de comandos uitlizados
+% Definicao/Alteracao de comandos utilizados
 %================================================================================
 
 % Permite comandos com @ no nome
@@ -763,7 +763,7 @@
 
 
 %================================================================================
-% Criacao dos Ambientes Flutuantes para Cogidos
+% Criacao dos Ambientes Flutuantes para Codigos
 %================================================================================
 
 \newcommand{\listcodigoname}{Lista de c{\'o}digos-fonte}
@@ -1336,7 +1336,7 @@
 
 
 %================================================================================
-% Configuracao dos Estilo dos Capitulo
+% Configuracao dos Estilo dos Capitulos
 %================================================================================
 
 \makechapterstyle{icmc}{%
