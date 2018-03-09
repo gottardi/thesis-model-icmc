@@ -1609,6 +1609,7 @@
 %	Indentação
 	\setlength{\cftsectionindent}{1.0em}
 	\setlength{\cftsubsectionindent}{1.5em}
+	\setlength{\cftsubsubsectionindent}{1.85em}
 %	Fim identação
 	\pdfbookmark[0]{\contentsname}{toc}
     \tableofcontents*
@@ -1683,3 +1684,4 @@
 % ---
 % Finaliza comandos com @ no nome
 \makeatother
+
